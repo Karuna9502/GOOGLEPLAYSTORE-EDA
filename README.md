@@ -39,6 +39,5 @@ Apps with fewer installs often belong to niche categories.
 
 🧩 Files Included
 
-Google_PlayStore_EDA.ipynb — Full Jupyter Notebook
+Google_PlayStore_EDA.ipynb — https://github.com/Karuna9502/GOOGLEPLAYSTORE-EDA/blob/main/Googleplay.ipynb
 
-README.md — Project overview
